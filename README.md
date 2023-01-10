@@ -15,6 +15,7 @@ UNIVERSIDAD NACIONAL DE PIURA, PERÚ
 
 PRACTICAS DE uC:
 
-Practica 1:
-retarnos.inc: Creacion de una libreria de retarnos para el prendido o apagado del led del uC
+Practica 1
+
+retardos.inc: Creacion de una libreria de retarnos para el prendido o apagado del led del uC
               en una frecuencia y Tcy determinada, hay diferentes tiempos por la cual se puede probar.
