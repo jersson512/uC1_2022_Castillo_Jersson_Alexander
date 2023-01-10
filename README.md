@@ -8,7 +8,7 @@
 
 Entorno: MPLAB X IDE  V6.00
 
-Lenguaje: AMS - C
+Lenguaje: ASM
 
 UNIVERSIDAD NACIONAL DE PIURA, PERÚ
 
