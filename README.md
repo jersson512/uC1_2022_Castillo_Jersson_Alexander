@@ -6,7 +6,7 @@
 
  Tarjeta: Curiosity Nano PIC18f57q84
 
-Entorno: MPLAB X IDE
+Entorno: MPLAB X IDE  V6.00
 
 Lenguaje: AMS - C
 
